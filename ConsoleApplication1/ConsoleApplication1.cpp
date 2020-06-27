@@ -2,10 +2,13 @@
 //
 
 #include <iostream>
-
+#include <string>
+#include <vector>
 int main()
 {
     std::cout << "我来了，调试!\n";
+    std::string a = "kkkjd";
+    
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
